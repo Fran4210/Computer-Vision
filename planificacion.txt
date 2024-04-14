@@ -1,0 +1,9 @@
+- Configurar Opencv para la captura de video ✅
+- Instalar dependencias
+- Detección gestos
+- Acciones
+    - Ratón
+    - Manipular el volumen
+    - Manipular el zoom
+- Pyinstaller
+
